@@ -1,7 +1,7 @@
 
 import './App.css';
-import Singnup from './components/Signup';
-import Login from './components/Login'
+import Singnup from './Signup';
+import Login from './Login'
 import {Routes,Route} from 'react-router-dom'
 
 function App() {
